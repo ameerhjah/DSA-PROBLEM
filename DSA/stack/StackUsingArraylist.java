@@ -43,6 +43,8 @@ public class StackUsingArraylist{
 
     }
     public static void main(String[] args) {
+
+        //creating stack object
         Stack s = new Stack();
         s.push(1);
         s.push(2);
